@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
 # Growing in Purity and Love
-## 1Thessalonians 4:3-12 
+## 1 Thessalonians 4:3-12 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -8,25 +8,32 @@
 <!-- .element: class="r-fit-text" -->
 
 ---
-For this is the will of God, your sanctification:<br>
-that you abstain from sexual immorality;
+For this is the will of God, your **sanctification**:<br>
+that you **abstain** from **sexual immorality**;
+
+[1 Thessalonians 4:3 (ESV)](# "ref")
 >>>
-+ "sanctification": holiness, not that God stands apart and demands we be holy,
-+ but HS dwells in us, is the only reason we are deemed holy:
-+ so live worthily of that calling
-+ "sexual immorality": from antiquity, encompassing various practises
-+ diff cultures considered diff practises "immoral":
-  + adultery (extra-marital affairs)
-  + prostitution (exch. sex for money)
-  + pedophilia + sexual slavery (coercion of those with less power)
-  + Spartans strict on adultery but open w/homosexuality
-+ truth is like bullseye: many different ways to be wrong
-  + Creator's design: sex in marriage: 1M1F equal partnership for life
-+ God sanctifies us, defines immorality vs holiness
++ "sanctification": He **is** our holiness
+  + not: God stands apart, **demands** we be holy,
+  + but: HS **dwells**, is why we're deemed holy:
++ so live **worthily** of that calling
++ "sexual immor": from antiquity, incl **various** practises
++ diff **cultures** considered diff practises "immoral":
+  + **adultery** (extra-marital affairs)
+  + **prostitution** (exch. sex for money)
+  + pedophilia + sexual **slavery** (coerce those w/less power)
+  + **Spartans** strict on adultery but open w/homo
++ Truth as **bullseye**: many diff ways to be wrong
+  + Creator's **design**: sex in **marriage**:
+  + 1M1F equal partnership for life
++ God sanctifies us, **defines** immorality vs holiness
+  + so "abstain": **hold apart**, keep away from
 
 ---
-4 that each one of you know how to<br>
-control his own body in holiness and honor,
+that each one of you know how to<br>
+**control** his own **body** <br>
+in **holiness** and **honor**,
+[1 Thessalonians 4:4 (ESV)](# "ref")
 >>>
 + "control": acquire for oneself, possess: ownership, responsibility
   + "my body, my choice"
@@ -34,8 +41,9 @@ control his own body in holiness and honor,
 + "holiness + honor": not that body is dirty/shameful
 
 ---
-5 not in the passion of lust<br>
+not in the **passion** of **lust**<br>
 like the Gentiles who do not know God;
+[1 Thessalonians 4:5 (ESV)](# "ref")
 >>>
 + "passion": pathos, deep emotion (not necc bad)
 + "lust": inflamed, consuming desire that ignores all other considerations (bad)
@@ -44,8 +52,9 @@ like the Gentiles who do not know God;
   + "true to self" / "follow heart": what comes naturally: indulging sinful nature
 
 ---
-6 that no one transgress and wrong<br>
+that no one **transgress** and **wrong**<br>
 his brother in this matter,
+[1 Thessalonians 4:6a (ESV)](# "ref")
 >>>
 + "transgress": overstep bounds, defraud
 + "wrong": have more / desire more: covet, take advantage of
@@ -61,10 +70,10 @@ his brother in this matter,
   + Also hurts ourselves:
 
 ---
-Flee from sexual immorality.<br>
-Every other sin a person commits is outside the body,<br>
-but the sexually immoral person sins against his own body.
-[1 Cor 6:18 (ESV)]
+**Flee** from sexual immorality.<br>
+Every other sin a person commits is **outside** the body,<br>
+but the sexually immoral person sins against his **own body**.
+[1 Corinthians 6:18 (ESV)](# "ref")
 >>>
 + Christ paid the price to redeem us
   + We belong to Him: spirit, heart, mind, body
@@ -72,10 +81,11 @@ but the sexually immoral person sins against his own body.
 + So no, I do not have the freedom to do what I want w/own body
 
 ---
-because the Lord is an avenger<br>
+because the Lord is an **avenger**<br>
 in all these things,<br>
 as we told you beforehand<br>
 and solemnly warned you.
+[1 Thessalonians 4:6b (ESV)](# "ref")
 >>>
 + "avenger": comes forth from justice, carries out judgment:
   + champion / defender of city
@@ -84,17 +94,19 @@ and solemnly warned you.
   + honour + value of others whom we would objectify
 
 ---
-7 For God has not called us for impurity,<br>
+For God has not called us for impurity,<br>
 but in holiness.
+[1 Thessalonians 4:7 (ESV)](# "ref")
 >>>
 + "impurity": uncleanness
   + "holiness": set apart w/ special identity + purpose
 + "called": God knows you, sees you, calls you
 
 ---
-8 Therefore whoever disregards this,<br>
-disregards not man but God,<br>
-who gives his Holy Spirit to you.
+Therefore whoever **disregards** this,<br>
+disregards not **man** but **God**,<br>
+who gives his **Holy Spirit** to you.
+[1 Thessalonians 4:8 (ESV)](# "ref")
 >>>
 + sounds very severe + strict, perhaps feel unreasonable
 + if these were man-made rules, we'd say to the men:
@@ -106,9 +118,10 @@ who gives his Holy Spirit to you.
 
 ---
 you yourselves have been<br>
-taught by God to love one another,<br>
-10 for that indeed is what you are doing<br>
+**taught by God** to **love one another**,<br>
+for that indeed is what you are doing<br>
 to all the brothers throughout Macedonia.
+[1 Thessalonians 4:9-10 (ESV)](# "ref")
 >>>
 + care for fellow believers in Christ, exhibited in action + gifts
 + taught not by inner conscience
@@ -119,10 +132,11 @@ to all the brothers throughout Macedonia.
   + and outward to sister churches in area
 
 ---
-But we urge you, brothers, to do this more and more,<br>
-11 and to aspire to live quietly,<br>
-and to mind your own affairs,<br>
-and to work with your hands, as we instructed you,
+But we urge you, brothers, to do this **more and more**,<br>
+and to aspire to live **quietly**,<br>
+and to mind your **own affairs**,<br>
+and to work with your **hands**, as we instructed you,
+[1 Thessalonians 4:11 (ESV)](# "ref")
 >>>
 + increase in love for fellow believers
 + "aspire": love what is honourable, zealously pursue that which has great personal value
@@ -133,8 +147,9 @@ and to work with your hands, as we instructed you,
 + "work w/hands": labour to accomplish: "I made that"
 
 ---
-12 so that you may walk properly before outsiders<br>
-and be dependent on no one.
+so that you may **walk properly** before outsiders<br>
+and be **dependent** on no one.
+[1 Thessalonians 4:12 (ESV)](# "ref")
 >>>
 + "walk": walk around (in circles): daily conduct
 + "properly": good schema / form: respectable, becoming
