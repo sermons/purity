@@ -6,6 +6,37 @@
 <!-- .slide: data-background="white" -->
 # Opening <br> **Question**
 <!-- .element: class="r-fit-text" -->
+>>>
++
+______
++ **[ PRAYER ]**
+
+---
+<!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
+# Growing Together, While Apart
+<!-- .element: class="r-fit-text" -->
+
+| *1* | Impact of **Faith** | 
+|---|---|
+| *2a,b* | Toil of **Love** |
+| *3* | Accountability with **Hope** |
+| *4* | **Growing in Purity + Love** |
+| *5a* | **Hope** of Salvation |
+| *5b* | Acts of **Faith** |
+
+>>>
++ Theme of 1Thes: encouragment in **FHL**
++ 1st half: Thes' **rl** w/Paul + **response** to gospel
++ 2nd half: addr 4 specific **Qs** / issues:
+  + 1: How to deal w/**sexual** temptation
+  + 2: How to show godly **love** to others
+  + 3: What happens after we **die**
+  + 4: **When** is Christ returning
+
+---
+outline
+>>>
++
 
 ---
 For this is the will of God, your **sanctification**:<br>
@@ -71,8 +102,10 @@ his brother in this matter,
 
 ---
 **Flee** from sexual immorality.<br>
-Every other sin a person commits is **outside** the body,<br>
-but the sexually immoral person sins against his **own body**.
+Every other sin a person commits <br>
+is **outside** the body,<br>
+but the sexually immoral person <br>
+sins against his **own body**.
 [1 Corinthians 6:18 (ESV)](# "ref")
 >>>
 + Christ paid the price to redeem us
@@ -132,10 +165,12 @@ to all the brothers throughout Macedonia.
   + and outward to sister churches in area
 
 ---
-But we urge you, brothers, to do this **more and more**,<br>
+But we urge you, brothers, <br>
+to do this **more and more**, <br>
 and to aspire to live **quietly**,<br>
 and to mind your **own affairs**,<br>
-and to work with your **hands**, as we instructed you,
+and to work with your **hands**, <br>
+as we instructed you,
 [1 Thessalonians 4:11 (ESV)](# "ref")
 >>>
 + increase in love for fellow believers
@@ -147,7 +182,8 @@ and to work with your **hands**, as we instructed you,
 + "work w/hands": labour to accomplish: "I made that"
 
 ---
-so that you may **walk properly** before outsiders<br>
+so that you may <br>
+**walk properly** before outsiders<br>
 and be **dependent** on no one.
 [1 Thessalonians 4:12 (ESV)](# "ref")
 >>>
