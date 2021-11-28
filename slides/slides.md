@@ -54,9 +54,9 @@ ______
 
 ---
 ## 1. Will of God
-A. **Flee** Immorality
-B. Honour Toward Own **Body**
-C. Honour Toward **Others**
++ A. **Flee** Immorality
++ B. Honour Toward Own **Body**
++ C. Honour Toward **Others**
 
 For this is the will of God, your **sanctification**:
 
@@ -93,9 +93,11 @@ that you **abstain** from **sexual immorality**;
 
 ---
 <!-- .slide: <%= bg("unsplash-Apj4nSemkzk-running_feet.jpg") %> -->
-**Flee** from sexual immorality.<br>
+**Flee** from sexual immorality.
+
 Every other sin a person commits <br>
-is **outside** the body,<br>
+is **outside** the body,
+
 but the sexually immoral person <br>
 sins against his **own body**.
 
@@ -176,7 +178,8 @@ his brother in this matter,
 ---
 <!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
 Do not **deprive** one another, <br>
-except perhaps by **agreement** for a limited time, <br>
+except perhaps by **agreement** <br>
+for a limited time, <br>
 that you may devote yourselves to **prayer**;
 
 but then come **together** again, <br>
@@ -332,7 +335,8 @@ to all the brothers throughout Macedonia.
 ---
 <!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 But we urge you, brothers, <br>
-to do this **more and more**, <br>
+to do this **more and more**, 
+
 and to aspire to live **quietly**,<br>
 and to mind your **own affairs**,<br>
 and to work with your **hands**, <br>
@@ -341,13 +345,18 @@ as we instructed you,
 [1 Thessalonians 4:11 (ESV)](# "ref")
 [Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 >>>
-+ increase in love for fellow believers
-+ "aspire": love what is honourable, zealously pursue that which has great personal value
-  + deem this as honourable/worthy, and enjoy pursuing it
-+ "live quietly": be silent, still, opp. restless, raucous, draw atten to self
-+ "mind own affairs": practise (make habit) one's own: process
-  + concern for others should not be excuse to neglect own responsibilities
-+ "work w/hands": labour to accomplish: "I made that"
++ **increase** in love for fellow believers
++ "aspire": love what is **honourable**
+  + zealously **pursue** that which 
+  + has great personal **value**
++ deem this as **honourable** / worthy,
+  + and **enjoy** pursuing it
++ "live quietly": be silent, still,
+  + opp. restless, raucous, draw atten to self
++ "mind own affairs": practise (make habit): process
+  + concern for others should not be 
+  + excuse to neglect own responsib
++ "work w/hands": labour to accomp: "I made that"
 
 ---
 <!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
@@ -403,3 +412,4 @@ produce **thanksgiving** to God.
   + clean dwelling for HS
 + Move from **self** to **service**
   + work quietly to provide generously
+
