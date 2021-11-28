@@ -4,10 +4,20 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening <br> **Question**
+# How should we handle <br> **sexual temptation**?
 <!-- .element: class="r-fit-text" -->
 >>>
-+
++ Range from what seems **harmless**: 
+  + e.g., indulging in **porn** / fantasy
++ to **hurt** how **see** / interact w/others:
+  + e.g., seeking **revenge** (e.g., reput)
+  + won't give **atten** how we want
++ to **actions** w/long-term repercus: 
+  + e.g., extra-**marital** sexual relation
++ Sexual **desire** powerful force:
+  + we need to **talk** about it
++ Scrip offers much **guidance**:
+  + Behold **Lamb** of God
 ______
 + **[ PRAYER ]**
 
@@ -26,7 +36,8 @@ ______
 
 >>>
 + Theme of 1Thes: encouragment in **FHL**
-+ 1st half: Thes' **rl** w/Paul + **response** to gospel
++ 1st half: Thes' **rl** w/Paul 
+  + and **response** to gospel
 + 2nd half: addr 4 specific **Qs** / issues:
   + 1: How to deal w/**sexual** temptation
   + 2: How to show godly **love** to others
@@ -34,71 +45,53 @@ ______
   + 4: **When** is Christ returning
 
 ---
-outline
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+## Purity and Love [(1Thes4)](# "ref")
+1. The Will of God [(v3-6a)](# "ref")
+1. Our Identity in Christ [(v6b-8)](# "ref")
+1. From Selfishness to Service [(v9-12)](# "ref")
+
 >>>
 +
 
 ---
-For this is the will of God, your **sanctification**:<br>
-that you **abstain** from **sexual immorality**;
 
-[1 Thessalonians 4:3 (ESV)](# "ref")
+## 1. Will of God
+A. **Flee** Immorality
+B. Honour Toward Own **Body**
+C. Honour Toward **Others**
+
+For this is the will of God, your **sanctification**:
+
+[1 Thessalonians 4:3a (ESV)](# "ref")
 >>>
 + "sanctification": He **is** our holiness
   + not: God stands apart, **demands** we be holy,
-  + but: HS **dwells**, is why we're deemed holy:
-+ so live **worthily** of that calling
-+ "sexual immor": from antiquity, incl **various** practises
-+ diff **cultures** considered diff practises "immoral":
++ but: HS **dwells** in us
+  + is why we're **deemed** holy:
++ So live **worthily** of that calling
++ God's **will** for us regarding sexuality:
+  + 3 **infinitive** phrases
+
+---
+that you **abstain** from **sexual immorality**;
+
+[1 Thessalonians 4:3b (ESV)](# "ref")
+>>>
++ "sexual immor": various **practises**
++ diff **cultures**: diff practises "immoral":
   + **adultery** (extra-marital affairs)
   + **prostitution** (exch. sex for money)
-  + pedophilia + sexual **slavery** (coerce those w/less power)
+  + pedophilia + sexual **slavery** 
+    + (**coerce** those w/less power)
   + **Spartans** strict on adultery but open w/homo
 + Truth as **bullseye**: many diff ways to be wrong
-  + Creator's **design**: sex in **marriage**:
-  + 1M1F equal partnership for life
-+ God sanctifies us, **defines** immorality vs holiness
+  + "but: porn not **same** as rape/pedo!"
++ Creator's **design**: sex in **marriage**:
+  + 1M1F **covenant** eq partner for life
+  + e.g., **gas** in car
++ God sanct. us: **defines** immor vs holy
   + so "abstain": **hold apart**, keep away from
-
----
-that each one of you know how to<br>
-**control** his own **body** <br>
-in **holiness** and **honor**,
-[1 Thessalonians 4:4 (ESV)](# "ref")
->>>
-+ "control": acquire for oneself, possess: ownership, responsibility
-  + "my body, my choice"
-+ "body": vessel, utility: body, wife
-+ "holiness + honor": not that body is dirty/shameful
-
----
-not in the **passion** of **lust**<br>
-like the Gentiles who do not know God;
-[1 Thessalonians 4:5 (ESV)](# "ref")
->>>
-+ "passion": pathos, deep emotion (not necc bad)
-+ "lust": inflamed, consuming desire that ignores all other considerations (bad)
-+ w/o God's law to keep us centred,
-  + try best to be "good"
-  + "true to self" / "follow heart": what comes naturally: indulging sinful nature
-
----
-that no one **transgress** and **wrong**<br>
-his brother in this matter,
-[1 Thessalonians 4:6a (ESV)](# "ref")
->>>
-+ "transgress": overstep bounds, defraud
-+ "wrong": have more / desire more: covet, take advantage of
-+ 2 appl: if brother is struggling with controlling own body
-  + do not take advantage / belittle
-+ for myself: be warned, sex imm not "victimless":
-  + indulging in lust is selfish
-  + even if only fantasy / escape
-+ steps over bounds God drew for how to treat others
-  + pornography (written or visual) encourages objectification of others
-  + see others only as tool to satisfy own lust
-+ Not only impacts relationships w/others
-  + Also hurts ourselves:
 
 ---
 **Flee** from sexual immorality.<br>
@@ -106,63 +99,220 @@ Every other sin a person commits <br>
 is **outside** the body,<br>
 but the sexually immoral person <br>
 sins against his **own body**.
+
 [1 Corinthians 6:18 (ESV)](# "ref")
 >>>
-+ Christ paid the price to redeem us
-  + We belong to Him: spirit, heart, mind, body
-  + To be a place where HS dwells
-+ So no, I do not have the freedom to do what I want w/own body
++ Christ paid **price** to redeem us
+  + We **belong** to Him: 
+  + spirit, heart, mind, **body**
++ To be place where HS **dwells**
++ So do I have **freedom** to
+  + do what I **want** w/own body?
++ 2nd **infinitive**:
+
+---
+that each one of you know how to<br>
+**control** his own **body** <br>
+in **holiness** and **honor**,
+
+[1 Thessalonians 4:4 (ESV)](# "ref")
+>>>
++ "control": acquire for self, **possess**:
+  + **ownership**, responsibility
++ "my body, my **choice**"
+  + what will I **do** w/that choice?
++ "**Consenting** adults": consent is **necess.**
+  + but not **suff**!
++ "body": vessel w/purpose, **utility**: wife
+  + what is **purpose** of body?
++ "**holiness** + honour": 
+  + not that body is dirty / **shameful**
++ Not **ashamed** of sexual function
+  + but **protect**, treasure
+
+---
+not in the **passion** of **lust**<br>
+like the Gentiles who do not **know God**;
+
+[1 Thessalonians 4:5 (ESV)](# "ref")
+>>>
++ "passion": pathos, deep **emotion**
+  + (not necc **bad**)
++ "lust": inflamed, consuming **desire**
+  + ignores all other consider (**bad**)
++ w/o God's **law** to keep us centred,
+  + try best to be **"good"** person
++ "true to **self**" / "follow **heart**": 
+  + what comes **naturally**:
+  + indulging **sinful** nature
++ Last **infinitive**:
+
+---
+that no one **transgress** and **wrong**<br>
+his brother in this matter,
+
+[1 Thessalonians 4:6a (ESV)](# "ref")
+>>>
++ "transgress": **overstep** bounds, defraud
++ "wrong": have **more** / desire more:
+  + **covet**, take advantage of
++ 2 **appl**: if **brother** is struggling
+  + w/**controlling** own body:
+  + do not take **advantage** / belittle
++ For **myself**: be warned, 
+  + sex imm not **"victimless"**:
++ Indulging in lust is **selfish**
+  + even if only **fantasy** / escape
++ Steps over **bounds** God drew 
+  + for how to **treat** others
++ **Porn** (written or visual)
+  + enc. **objectification** of others
+  + see others as **tool** to satisfy own lust
+
+---
+Do not **deprive** one another, <br>
+except perhaps by **agreement** for a limited time, <br>
+that you may devote yourselves to **prayer**;
+
+but then come **together** again, <br>
+so that Satan may not **tempt** you <br>
+because of your lack of **self-control**.
+
+[1 Corinthians 7:5 (ESV)](# "ref")
+>>>
++ To **married**:
++ Inasmuch as **coercing** sex is aggression,
+  + **Withholding** sex also uses sex as **weapon**
++ If **trust** / intimacy issues:
+  + **address**, communicate
+  + understand + **accept** understood
++ Don't let issues sit **unresolved**, drift apart
+  + **grow** in rl
+
+---
+<!-- .slide: data-background="white" -->
+# What is God's <br> **will** for us <br> regarding **sexuality**?
+<!-- .element: class="r-fit-text" -->
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Purity and Love [(1Thes4)](# "ref")
+1. The Will of God [(v3-6a)](# "ref")
+1. **Our Identity in Christ** [(v6b-8)](# "ref")
+1. From Selfishness to Service [(v9-12)](# "ref")
 
 ---
 because the Lord is an **avenger**<br>
 in all these things,<br>
 as we told you beforehand<br>
 and solemnly warned you.
+
 [1 Thessalonians 4:6b (ESV)](# "ref")
 >>>
-+ "avenger": comes forth from justice, carries out judgment:
-  + champion / defender of city
-+ What is the Lord defending?
-  + holiness of our bodies whom He redeemed
-  + honour + value of others whom we would objectify
++ "avenger": comes forth from **justice**,
+  + carries out **judgment**:
+  + **champion** / defender of city
++ What is Lord **defending**?
+  + holiness of our **bodies** whom redeemed
+  + honour + value of **others** 
+  + whom we would **objectify**
 
 ---
-For God has not called us for impurity,<br>
-but in holiness.
+For God has not called us for **impurity**,<br>
+but in **holiness**.
+
 [1 Thessalonians 4:7 (ESV)](# "ref")
 >>>
-+ "impurity": uncleanness
-  + "holiness": set apart w/ special identity + purpose
-+ "called": God knows you, sees you, calls you
++ "impurity": **uncleanness**
+  + "holiness": set **apart**
+  + w/ special **identity** + purpose
++ "called": God **knows** you, sees, calls
 
 ---
 Therefore whoever **disregards** this,<br>
 disregards not **man** but **God**,<br>
 who gives his **Holy Spirit** to you.
+
 [1 Thessalonians 4:8 (ESV)](# "ref")
 >>>
-+ sounds very severe + strict, perhaps feel unreasonable
-+ if these were man-made rules, we'd say to the men:
-  + "you cannot keep these yourself" (probably repressed)
-  + simply means to control / belittle others
-+ but these are set by our Creator who designed bdy
-  + and redeemed it to be dwelling for HS
-+ don't "disregard" (set aside, deem irrelevant / inapplicable)
++ Sounds very **severe** + strict,
+  + perhaps feel **unreasonable**
++ If **man-made** rules, we'd say to men:
+  + "you cannot keep these **yourself**"
+  + (probably **repressed**)
+  + simply means to **control** / belittle
++ But set by **Creator** who designed bodies
+  + and redeemed to be **dwelling** for HS
++ Don't **"disregard"** (set aside)
+  + deem **irrelevant** / inapplicable
+______
+*[ SKIP READ ]*
+
+---
+For God has not called us for **impurity**,<br>
+but in **holiness**.
+
+[1 Thessalonians 4:7 (ESV)](# "ref")
+>>>
++ To **singles**:
++ Sexual desire is **powerful** force:
+  + yes, want **intercourse**
++ But **more**: not unthink **beasts** reprod:
+  + physical **intimacy**
+  + **touch** (esp in pandemic!)
+  + companion: **understood** + accept
+  + need for **love**
++ Cannot **ignore** the desire: recog
+  + not immoral / shameful to **want** sex
++ God-given, part of **glue** in marriage
+  + need for **love** ult is need for **God**
++ If **tempted** when alone at night:
+  + **get up**, housework, walk, exer
+  + phys act grounds in **reality**, not fantasy
++ Remember **identity** in Chr for **holiness**
+
+---
+<!-- .slide: data-background="white" -->
+# What role does <br> **sexuality** play in <br> our **identity** in Christ?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ not **core** of who we are:
++ God's **elect**, **sons/daug** of King
+  + **forgiven**, redeemed,
+  + called to **holiness**
++ sex **precious** / sacred, reserved for marriage
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Purity and Love [(1Thes4)](# "ref")
+1. The Will of God [(v3-6a)](# "ref")
+1. Our Identity in Christ [(v6b-8)](# "ref")
+1. **From Selfishness to Service** [(v9-12)](# "ref")
+
+>>>
++ instead of selfish fantasy, generous action
++ instead of satisfying own desires,
++ do own work quietly so as to
++ provide generously for others
+  + esp fellow believers in Christ
 
 ---
 you yourselves have been<br>
 **taught by God** to **love one another**,<br>
 for that indeed is what you are doing<br>
 to all the brothers throughout Macedonia.
+
 [1 Thessalonians 4:9-10 (ESV)](# "ref")
 >>>
-+ care for fellow believers in Christ, exhibited in action + gifts
-+ taught not by inner conscience
-  + but by HS dwelling within them,
-  + prompting them to show love to others
-+ did not wait for Paul/others to prompt them
-+ extended love within church at Thes
-  + and outward to sister churches in area
++ **Care** for fellow believers in Christ
+  + exhibited in **useful** aid + gifts
++ Taught not by inner **conscience**
+  + but by **HS** dwelling within them,
+  + **prompting** them to show love to others
++ Did not **wait** for Paul/others to remind
++ But extended love **within church** at Thes
+  + and **outward** to sister churches in area
 
 ---
 But we urge you, brothers, <br>
@@ -171,6 +321,7 @@ and to aspire to live **quietly**,<br>
 and to mind your **own affairs**,<br>
 and to work with your **hands**, <br>
 as we instructed you,
+
 [1 Thessalonians 4:11 (ESV)](# "ref")
 >>>
 + increase in love for fellow believers
@@ -185,6 +336,7 @@ as we instructed you,
 so that you may <br>
 **walk properly** before outsiders<br>
 and be **dependent** on no one.
+
 [1 Thessalonians 4:12 (ESV)](# "ref")
 >>>
 + "walk": walk around (in circles): daily conduct
@@ -192,3 +344,27 @@ and be **dependent** on no one.
   + outward appearance (God knows heart)
 + "dependent": have need of no one
 
+---
+You will be **enriched** in every way <br>
+to be **generous** in every way, <br>
+which through us will <br>
+produce **thanksgiving** to God.
+
+[2 Corinthians 9:11 (ESV)](# "ref")
+
+>>>
++ live **quietly**, tend to **own** work,
+  + **produce** sth
++ So can **share** generously w/need
+
+---
+<!-- .slide: data-background="white" -->
+# How can I **abound** in love <br> for fellow **believers**?
+<!-- .element: class="r-fit-text" -->
+
+>>>
++ Own quiet **work**, productivity
++ Tangible, useful **aid** to needy
+  + w/in own **church**
+  + out to **sister** churches
+  + out to **world**
