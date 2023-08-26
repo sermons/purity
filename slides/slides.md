@@ -25,6 +25,7 @@ ______
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 ## Growing Together, While Apart <br> 當分開時一起成長
+<!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 信心的影響 |
 |---|---|---|
@@ -79,6 +80,7 @@ sexual **immorality**;
 遠避淫行
 
 [1 Thessalonians 帖撒羅尼迦前書 4:3b (ESV/CUV)](# "ref")
+[StockSnap](https://stocksnap.io/photo/bullseye-darts-ZPKNKYW4GH "caption")
 >>>
 + "sexual immorality": this encompasses various **practises**
 + Different **cultures** consider different practises "immoral":
@@ -114,6 +116,7 @@ sins against his **own body**.
 惟有行淫的，是得罪自己的身子。
 
 [1 Corinthians 歌林多前書 6:18 (ESV/CUV)](# "ref")
+[Clem Onojeghuo](https://unsplash.com/photos/Apj4nSemkzk "caption")
 >>>
 + Christ paid the greatest **price** to redeem us
   + So we **belong** to Him: 
@@ -401,6 +404,7 @@ to do this **more and more**,
 但我勸弟兄們要更加勉勵
 
 [1 Thessalonians 帖撒羅尼迦前書 4:10b (ESV/CUV)](# "ref")
+[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
@@ -414,7 +418,6 @@ as we instructed you,
 正如我們從前所吩咐你們的，
 
 [1 Thessalonians 帖撒羅尼迦前書 4:11 (ESV/CUV)](# "ref")
-[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 >>>
 + "Do this more and more": **increase** our love for fellow believers
 + "aspire": this means to love what is **honourable**,
