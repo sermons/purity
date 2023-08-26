@@ -25,13 +25,12 @@ ______
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
 ## Growing Together, While Apart <br> 當分開時一起成長
-<!-- .element: class="r-fit-text" -->
 
 | *1* | Impact of **Faith** | 信心的影響 |
 |---|---|---|
 | *2a,b* | Toil of **Love** | 愛心的勞苦 |
 | *3* | Acc. with **Hope** | 充滿希望的負責 |
-| *4* | Grow in Purity + **Love** | 在聖潔和愛中成長 |
+| *4* | Purity + **Love** | 在聖潔和愛中成長 |
 | *5a* | **Hope** of Salvation | 救贖的盼望 |
 | *5b* | Acts of **Faith** | 信心的行為 |
 
@@ -237,7 +236,7 @@ because of your lack of **self-control**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is God's <br> **will** for us <br> regarding **sexuality**?
+# What is God's **will** for us <br> regarding **sexuality**?
 <!-- .element: class="r-fit-text" -->
 # 神在性方面 <br> 對我們的旨意是什麼？
 <!-- .element: class="r-fit-text" -->
