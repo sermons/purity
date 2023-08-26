@@ -55,14 +55,12 @@ ______
 1. From Selfishness to **Service** <br> 從自私到服侍 [(v9-12)](# "ref")
 
 ---
-## 1. The Will of God 神的旨意
-+ A. **Flee** Immorality 逃避淫行
-+ B. Honour Toward Own **Body**
-+ C. Honour Toward **Others**
-
-For this is the will of God, your **sanctification**:
-
+For this is the will of God, your **sanctification**:<br>
 神的旨意就是要你們成為聖潔
+
+1. **Flee** Immorality 逃避淫行
+2. Honour Our Own **Bodies**
+3. Honour **Others**
 
 [1 Thessalonians 帖撒羅尼迦前書 4:3a (ESV/CUV)](# "ref")
 >>>
