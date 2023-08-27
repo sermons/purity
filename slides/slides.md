@@ -3,22 +3,31 @@
 ## 1 Thessalonians <br> 帖撒羅尼迦前書 4:3-12 
 
 [Saxon, Switzerland. Artem Sapegin](https://unsplash.com/photos/e2uTOpgW5Ec "caption")
+
+>>>
++ **uncomfortable** topic
++ but we **need** to talk about it
++ bc God cares about our **holiness**:
+
 ---
 <!-- .slide: data-background="white" -->
 # How should we handle <br> **sexual temptation**?
 <!-- .element: class="r-fit-text" -->
+
 >>>
-+ The effects can range from the seemingly **harmless**: 
-  + e.g., indulging in **porn** / fantasy
-+ to serious issues that **hurt** how we **see** or interact with others:
-  + e.g., seeking **revenge** (e.g., harming another's reputation)
-  + because they won't give us **attention** in the way we want
-+ to **actions** with long-term repercussions: 
-  + e.g., extra-**marital** sexual relations
-+ Sexual **desires** are powerful forces:
-  + we need to **talk** about it in the church
-+ Scripture offers much **guidance** to us:
-  + Behold **Lamb** of God who takes away the sin of the world
++ tempt might seem **harmless**: 
+  + e.g., indulge in **porn** / fantasy
++ or might **hurt** others:
+  + e.g., harming other's **reputation**
+  + as **revenge** bc didn't get
+  + sort of **attention** we wanted
++ or **actions** w/long-term repercuss: 
+  + e.g., extra-**marital** sex relation
++ Sexual **desire** is powerful force
+  + To **ignore** it is to ignore reality
++ Aim is not to **condemn** but seek
+  + practical **guidance** from Scrip:
++ Behold **Lamb** of God
 ______
 + **[ PRAYER ]**
 
@@ -38,12 +47,12 @@ ______
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Theme of 1Thes: encouragment in **faith, hope, and love**
-+ 1st half: Thessalonians' **relationship** with Paul 
++ Theme of 1Thes: encour **FHL**
++ 1st half: Thess' **rl** w/Paul 
   + and their **response** to gospel
-+ 2nd half: addresses 4 specific **questions** or issues:
-  + 1: How to deal w/**sexual** temptation?
-  + 2: How to show godly **love** to others?
++ 2nd half: 4 specific **Qs** / issues:
+  + 1: How to deal w/**sexual** tempt
+  + 2: How to show godly **love**
   + 3: What happens after we **die**?
   + 4: **When** is Christ returning?
 
@@ -59,18 +68,20 @@ For this is the will of God, your **sanctification**:<br>
 神的旨意就是要你們成為聖潔
 
 1. **Flee** Immorality 逃避淫行
-2. Honour Our Own **Bodies**
+2. Honour God with Our Own **Bodies**
 3. Honour **Others**
 
 [1 Thessalonians 帖撒羅尼迦前書 4:3a (ESV/CUV)](# "ref")
 >>>
-+ "sanctification": God **is** our holiness
-  + not that God stands apart and **demands** we be holy,
-+ but the Holy Spirit **dwells** in us
-  + and is the reason why we're **deemed** holy.
-+ So let us live **worthily** of that calling
-+ Here's God's **will** for us regarding sexuality:
-  + 3 **commands** *(infinitives)*
++ "sanctif": God **makes** us holy: not
+  + stand far off, **demand** we be holy,
++ but HS **dwells**: why **deemed** holy.
+  + So live **worthily** of that calling.
++ God's **will** for us regarding sex,
+  + in 3 **commands** *(infinitives)*:
++ **Flee** sexual immorality
++ Honour God with our own **bodies**
++ Honour God in our rl w/**others**
 
 ---
 <!-- .slide: <%= bg("stocksnap-ZPKNKYW4GH-bullseye.jpg") %> -->
@@ -82,26 +93,23 @@ sexual **immorality**;
 [1 Thessalonians 帖撒羅尼迦前書 4:3b (ESV/CUV)](# "ref")
 [StockSnap](https://stocksnap.io/photo/bullseye-darts-ZPKNKYW4GH "caption")
 >>>
-+ "sexual immorality": this encompasses various **practises**
-+ Different **cultures** consider different practises "immoral":
-  + Some focused on **adultery** (extra-marital affairs)
-  + Others included **prostitution** (exchanging sex for money)
-  + or pedophilia + sexual **slavery** 
-    + (**coercion** of those with less power)
-  + e.g., the **Spartans** were strict on adultery but open with homosexuality
-+ But God's truth is like the **bullseye** of a target:
-  + there are **many** different ways to be wrong
-  + and only **one** truth
-+ One may object, "but porn is not as **severe** as rape or pedophilia!"
-+ Our Creator's **design** is for sexual relations to exist only within **marriage**:
-  + where marriage is defined as one man and one woman 
-  + in a lifelong **covenant** as equal partners
-+ e.g., **gas** is a good thing for our cars,
-  + but only if it's kept within the gas tank,
-  + used properly according to the design of the engine
-+ God is the one who sanctifies us:
-  + He **defines** what is immoral vs holy
-+ so let us "abstain": i.e., to **hold apart**, keep away from
++ What do we **mean** by "sex immoral"?
++ Some cultures: only **adultery**
+  + Or **prostit** (xch sex for money)
+  + Or pedophilia + sexual **slavery** 
+    + (**coercion** of w/less power)
++ e.g., **Spartans**: strict on adultery 
+    + but open w/homosexuality
++ But God's truth like **bullseye**:
+  + **many** wrongs, only 1 **truth**
++ Creator **design** sex rl w/in **marr**:
+  + 1M1F, lifelong **covenant** eq partner
++ So sex immor is anything **not** that
++ **gas** good for cars, but only if in
+  + gas **tank**, acc to **design** engine
++ Hold **true** to God's design
+  + **Run** away from any off bullseye
++ 1Cor6 expands on this:
 
 ---
 <!-- .slide: <%= bg("unsplash-Apj4nSemkzk-running_feet.jpg") %> -->
@@ -118,11 +126,11 @@ sins against his **own body**.
 [1 Corinthians 歌林多前書 6:18 (ESV/CUV)](# "ref")
 [Clem Onojeghuo](https://unsplash.com/photos/Apj4nSemkzk "caption")
 >>>
-+ Christ paid the greatest **price** to redeem us
++ Christ paid greatest **price** to redeem
   + So we **belong** to Him: 
   + spirit, heart, mind, and **body**
-+ We have been set apart to be place where the Holy Spirit **dwells**
-+ So do I have **freedom** to
++ Set apart as place where HS **dwells**
++ But don't I have **freedom** to
   + do what I **want** with my own body?
 + 2nd **command** in v4:
 
@@ -137,19 +145,17 @@ in **holiness** and **honor**,
 
 [1 Thessalonians 帖撒羅尼迦前書 4:4 (ESV/CUV)](# "ref")
 >>>
-+ "control": to acquire for myself, to **possess**:
-  + this implies both **ownership** and responsibility
-+ But some will say, "It's my body, so it's my **choice**!"
-  + Yes, but what will I **do** with that choice?
-+ But some will say, "What happens between **consenting** adults is no one else's business!"
-  + Yes, consent is **necessary**
-  + but not **sufficient**!
-+ The word for "body" means a vessel with purpose and **utility**
-  + so what is the **purpose** of our bodies?
-+ For "**holiness** + honour": 
-  + not that our bodies are dirty or **shameful**
-+ So we should not be **ashamed** of sex which was designed by God
-  + but rather **protect** it and treasure it
++ "control": acquire for self, **possess**:
+  + both **ownership** and responsib
++ But "It's my body, my **choice**!"
+  + Yes, but what will I **do** w/choice?
++ But "**consenting** adults: not your biz!"
+  + Yes, **necess**: but not **suff**
++ "body": vessel w/purpose, **utility**
++ Purpose: for "**holiness** + honour"
+  + bodies not dirty / **shameful**
++ Not **ashamed** of sex (design by God)
+  + rather, **protect** / treasure
 
 ---
 <!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> -->
@@ -165,16 +171,17 @@ like the Gentiles who do not **know God**;
 + "passion": pathos, deep **emotion**
   + (not neccesarily a **bad** thing!)
 + "lust": inflamed, consuming **desire**
-  + that ignores all other considerations
-  + (now **this** is always bad in the Bible)
-+ We need God's **law** to keep us centred,
-  + otherwise we only try our best to be a **"good"** person
-+ We resort to vague aphorisms like
+  + ignores all other considerations
+  + (always **bad** in Bible!)
++ Ppl of **world**: w/o God's **law**
+  + so just try best, **"good"** person
++ Only has vague aphorisms like
   + "Just be true to **yourself**" 
   + "Just follow your **heart**"
-+ The end result is we do what comes **naturally**:
-  + i.e., indulging the **sinful** nature
-+ Last **command**:
++ Result: do what comes **naturally**:
+  + i.e., indulging **sinful** nature
++ But we must stay **centred** God's law
+  + Last **command** in v6:
 
 ---
 <!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
@@ -187,21 +194,22 @@ his brother in this matter,
 [1 Thessalonians 帖撒羅尼迦前書 4:6a (ESV/CUV)](# "ref")
 [Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 >>>
-+ "transgress": **overstep** bounds, defraud another
-+ "wrong": have **more** or desire more:
-  + i.e., to **covet**, take advantage of someone
-+ 2 **applications**: (1) if your **brother** is struggling
-  + with **controlling** his own body:
-  + do not take **advantage** or belittle him
++ "transgr": **overstep** bounds, defraud
++ "wrong": have **more**, desire more:
+  + **covet**, take advantage of s.o.
++ 2 **appl**: (1) if **bro** struggles
+  + w/**control** of own body:
+  + don't take **adv** / belittle him
 + (2) For **myself**: be warned, 
-  + sex immorality is not a **"victimless"** crime:
+  + sex imm not **"victimless"** crime:
 + Indulging in lust is **selfish**
-  + even if it's only for **fantasy** or escape
-+ It steps over the **bounds** God drew 
+  + even if only **fantasy** / escape
++ It steps over **bounds** God drew 
   + for how we are to **treat** others
-+ **Porn** (written or visual)
-  + encourages **objectification** of others
-  + to see others as merely a **tool** to satisfy my own lust
++ **Porn** (written or visual) encour
+  + **objectification** of others:
+  + just **tool** to satisfy own lust
++ To the **married**, 1Cor7:
 
 ---
 <!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
@@ -227,15 +235,19 @@ because of your lack of **self-control**.
 
 [1 Corinthians 歌林多前書 7:5b (ESV/CUV)](# "ref")
 >>>
-+ To the **married**:
-+ Inasmuch as **coercing** sex is aggression,
-  + **Withholding** sex is also using sex as a **weapon**
-+ If the two of us have **trust** or intimacy issues:
-  + we need to **address** them and learn to communicate
-+ Try to understand what the other person is saying,
-  + and **accept** that what I communicate has been understood
-+ Don't let issues sit **unresolved**; don't simply drift apart
-  + Work hard to **grow** our relationship
++ **Coercing** sex is aggression, so also
+  + **Withhold** sex: use as **weapon**
++ If too **tired**: real, not excuse!
+  + **Support** e.o., share burdens
++ If **trust** / intimacy issues:
+  + **address** them, learn to comm
++ **Understand** spouse, and 
+  + **accept** that they underst me
++ Don't let issues sit **unresolved**
+  + don't simply **drift** apart
++ Work hard to **grow** rl
++ Cultivate **prayer** life:
+  + both individually and together
 
 ---
 <!-- .slide: data-background="white" -->
@@ -244,12 +256,31 @@ because of your lack of **self-control**.
 # 神在性方面 <br> 對我們的旨意是什麼？
 <!-- .element: class="r-fit-text" -->
 
+>>>
++ **Flee** immorality: any sex rl
+  + outside God's **design** for marr
++ Honour God w/own **bodies**:
+  + **Control** body, 
+  + not be controlled by **passions**
+  + Bodies made for **holy** + honour
++ Honour God in our rl w/**others**:
+  + take **advantage** of another
+  + overstep God's **boundaries**
+
 ---
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> class="outline" -->
 ## Purity and Love [(1Thes4)](# "ref")
 1. The Will of God <br> 神的旨意 [(v3-6a)](# "ref")
 1. **Our Identity in Christ** <br> **我們在基督裡的身份** [(v6b-8)](# "ref")
 1. From Selfishness to Service <br> 從自私到服侍 [(v9-12)](# "ref")
+
+>>>
++ Not just set of **rules** to
+  + constrain our **freedom**
++ Remind selves of **who** we are:
+  + our **identity** in Christ
++ And who **God** is, as our
+  + Creator, Redeemer, and Judge
 
 ---
 <!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
@@ -265,12 +296,12 @@ and solemnly warned you.
 [1 Thessalonians 帖撒羅尼迦前書 4:6b (ESV/CUV)](# "ref")
 [&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 >>>
-+ "avenger": the one who comes forth from **justice**,
++ "avenger": comes forth from **justice**,
   + and carries out **judgment**:
-  + the **champion** / defender of city
+  + **champion** / defender of the city
 + What is the Lord **defending**?
-  + the holiness of our **bodies** whom redeemed, and
-  + the honour + value of **others** 
++ Holiness of my **body** He redeemed,
++ Honour + value of **others** 
   + whom we would **objectify**
 
 ---
@@ -283,10 +314,11 @@ but in **holiness**.
 
 [1 Thessalonians 帖撒羅尼迦前書 4:7 (ESV/CUV)](# "ref")
 >>>
-+ "impurity": means **uncleanness**, as opposed to
-  + "holiness": means we are set **apart**
-+ God gives us a special **identity** + purpose
-+ We have been "called": God **knows** you, sees you, and calls to you
++ "impurity": **unclean**, as opp. to
+  + "holiness": set **apart**
++ God gives special **ID** + purpose
++ We have been "called":
+  + God **knows** you, sees you, calls you
 
 ---
 <!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
@@ -300,19 +332,19 @@ who gives his **Holy Spirit** to you.
 [1 Thessalonians 帖撒羅尼迦前書 4:8 (ESV/CUV)](# "ref")
 [Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 >>>
-+ This might sound very **severe** + strict,
-  + it might even feel **unreasonable**
-+ If these were **man-made** rules, we'd say to the rule-makers:
-  + "You cannot keep these **yourself**"
++ If these were **man-made** rules, 
+  + we'd say to those making the rules:
++ "You **yourself** are unable to keep these
   + (you're probably **repressed**),
-  + these rules are simply a means to **control** / belittle us!"
-+ But these rules are not set by man, 
-  + but by the **Creator** who designed our bodies
-  + and redeemed us to be **dwelling** for the Holy Spirit
-+ So don't **"disregard"** (set aside) His exhortation,
-  + don't deem it **irrelevant** / inapplicable
+  + you want to **control** / belittle us!"
++ But these rules are not set by **man**, 
+  + but **Creator** who designed bodies
+  + redeemed us to be **dwelling** for HS
++ So don't **"disregard"** His command:
+  + set aside, deem **irrelev** / inappl
 ______
-*[ SKIP READ ]*
++ To the **singles**:
++ *[ SKIP READ ]*
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
@@ -325,24 +357,19 @@ but in **holiness**.
 [1 Thessalonians 帖撒羅尼迦前書 4:7 (ESV/CUV)](# "ref")
 [Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 >>>
-+ To the **singles**:
-+ Sexual desire is a **powerful** force:
-  + yes, we may think we want **intercourse**
-+ But actually, we want **more** than that, because
-  + we're not unthinking **beasts** solely focused on reproduction:
-+ We desire physical **intimacy**
-  + human **touch**
-+ We long for companionship: to be **understood** + accepted
-  + Ultimately, what we need is **love**
-+ We cannot **ignore** the desire, but recognise it
-  + It's not immoral / shameful to **want** sex
-+ It's God-given, part of **glue** in marriage
-  + But our need for **love** ultimately is a need for **God**
-+ Some advice especially to the young men,
-  + if **tempted** when alone:
-+ **Get up**, do housework, walk, exercise --
-  + the physical activity grounds us in **reality**, not fantasy
-+ Remember our **identity** in Christ is for **holiness**
++ Sexual desire is **powerful** force:
++ What we want is beyond **intercourse**
+  + not unthinking **beasts** just repro
++ Want phys **intimacy**, human **touch**
++ Companion: **underst** + accept: **love**
++ Cannot **ignore** desire, but recog it:
+  + Not immoral / shameful to **want** sex
++ God-given, part of **glue** in marriage
++ Need for **love** ult. is need for **God**
++ Advice to young men, **tempted** alone:
++ **Get up**, do housework, walk, exercise
+  + phys grounds **reality**, not fantasy
++ Remember **ID** in Chr is for **holy**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -350,13 +377,15 @@ but in **holiness**.
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Sexuality is not the **core** of who we are
-  + Who are we?
-+ We're God's **elect**, **sons/daughters** of the Most High King
-  + We're the **forgiven**, the redeemed,
++ Sexuality not **core** of who we are:
+  + so who are we?
++ God's **elect**, 
+  + **sons/daughters** of Most High King
++ We're the **forgiven**, the redeemed,
   + we're called to **holiness**
 + So what role does **sex** play?
-  + It's **precious** and sacred, reserved for marriage
+  + **precious** and sacred gift
+  + reserved for marriage
 
 ---
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> class="outline" -->
@@ -366,11 +395,12 @@ but in **holiness**.
 1. **From Selfishness to Service** <br> **從自私到服侍** [(v9-12)](# "ref")
 
 >>>
-+ Instead of selfish fantasy, turn to generous action
-+ Instead of satisfying our own desires,
-+ let us do our own work quietly so as to
-+ provide generously for others,
-  + especially fellow believers in Christ
++ Instead of **selfish** fantasy, 
+  + turn to **generous** action
++ Instead of satisf own **desires**,
+  + **work** quietly so as to
++ provide **generously** for others,
+  + esp fellow **believers** in Christ
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
@@ -387,14 +417,15 @@ to all the brothers throughout Macedonia.
 [1 Thessalonians 帖撒羅尼迦前書 4:9b-10a (ESV/CUV)](# "ref")
 [Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 >>>
-+ **Care** for fellow believers in Christ,
-  + exhibited in **useful** aid + gifts
-+ They are taught not by inner **conscience**
-  + but by the **Holy Spirit** dwelling within them,
-  + **prompting** them to show love to others
-+ They did not **wait** for Paul/others to remind them to do so,
-+ But extended love both **within the church** at Thes
-  + and **outward** to sister churches in the area
++ **Care** for fellow believers in Chr,
+  + exhibit in **useful** aid + gifts
++ Taught not by inner **conscience**
+  + but by **HS** dwelling w/in them,
+  + **prompting** to show love to others
++ Didn't **wait** to be reminded to do so,
++ But extended love both **w/in church**
+  + and **outward** to sister churches
++ So Paul **encourages** them:
 
 ---
 <!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
@@ -419,20 +450,20 @@ as we instructed you,
 
 [1 Thessalonians 帖撒羅尼迦前書 4:11 (ESV/CUV)](# "ref")
 >>>
-+ "Do this more and more": **increase** our love for fellow believers
-+ "aspire": this means to love what is **honourable**,
-  + to zealously **pursue** that which 
-  + has great personal **value**
-+ So let us deem this as **honourable** / worthy,
-  + and **enjoy** pursuing it:
-+ to "live quietly": be silent, still,
-  + as oppposed to being restless, raucous, drawing attention to ourselves
-+ "mind own affairs": practise (make it a habit): it's a process
-  + Concern for others should not be an
-  + excuse to neglect our own responsibilities
-+ "work with hands": labour to accomplish something:
-  + There's a lot of satisfaction in building something of value
-  + we can point to it and say, "I made that!"
++ "aspire": deem **honourable**,
+  + of great personal **value**,
+  + so zealously **pursue**
++ To "live quietly": **silent**, still,
+  + not **restless**, raucous, 
+  + not drawing **attention** to self
++ We tend not to **notice** quiet ones:
+  + do we **aspire** to be ignored?
++ "mind own affairs": **practise**
+  + make **habit** of diligence
++ Concern for **others** should not be
+  + excuse to neglect **own** responsib
++ "work w/hands": **labour** to accompl
+  + satisf bldg **value**: "I made that!"
 
 ---
 <!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
@@ -446,13 +477,14 @@ and be **dependent** on no one.
 [1 Thessalonians 帖撒羅尼迦前書 4:12 (ESV/CUV)](# "ref")
 [Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 >>>
-+ "walk": this refers to our daily conduct and habits
-+ "properly": with good schema / form: respectable, becoming
-  + it does include the outward appearance, how others perceive us
-+ (remembering that God knows our hearts, so we should not try to be fake)
-+ "dependent": not being a burden to others
-+ Able to provide for our own needs
-  + And even more:
++ "walk": daily conduct + habits
++ "properly": good **form**, 
+  + respectable, becoming
+  + **outward** app: how others perceive us
++ (remember God knows **heart**: not fake)
++ "dependent": not **burden** to others
+  + able to provide for our own **needs**
++ And even **more**:
 
 ---
 <!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
@@ -467,10 +499,10 @@ produce **thanksgiving** to God.
 [2 Corinthians 歌林多後書 9:11 (ESV/CUV)](# "ref")
 [Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
 >>>
-+ to live **quietly**, tend to our **own** work,
++ live **quietly**, tend to **own** work,
   + **produce** something useful
-+ So can **share** generously with those in need
-+ And the end result is **thanksgiving** to God
++ **Share** generously w/those in need
++ End result is **thanksgiving** to God
 
 ---
 <!-- .slide: data-background="white" -->
@@ -480,7 +512,8 @@ produce **thanksgiving** to God.
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ Do I aspire to do my own **work** quietly, to be productive,
++ Do I **aspire** to do own **work** quietly,
+  + to be productive
 + To provide tangible, useful **aid** 
   + to the needy within our own **church**,
   + out to **sister** churches, and
@@ -490,15 +523,16 @@ produce **thanksgiving** to God.
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> class="empty" -->
 >>>
 + Creator, You are **love**
-  + made us to love + be loved
-+ You created us with strong sexual desires,
-  + which You made to be precious + holy
-  + But we are so easily tempted
+  + made us to love + be loved.
++ You created us w/strong sexual **desires**,
+  + which You made to be **precious** + holy.
+  + But we are so easily **tempted**:
 + Help us to **flee** from immorality,
-  + to sanctify our **bodies** for holiness,
-  + and not to take advantage of others
-+ Remind us of our **identity** in You, as the redemeed
-  + made to be a clean dwelling for the Holy Spirit
-+ Move us  from **selfishness** to **service**
-  + that we may work quietly to provide generously
+  + to sanctify **bodies** for holiness,
+  + not to take **advantage** of others.
++ Remind our **ID** in You, as redemeed
+  + to be clean dwelling for **HS**
++ Move us from **selfish** to **service**
+  + work quietly to provide **generously**
+_____________________________________________
 
