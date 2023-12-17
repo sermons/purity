@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> id="title" -->
-# Growing in Purity and Love <br> 在清潔跟愛中成長
-## 1 Thessalonians <br> 帖撒羅尼迦前書 4:3-12 
+# Growing in Purity and Love 
+## 1 Thessalonians 4:3-12 
 
 [Saxon, Switzerland. Artem Sapegin](https://unsplash.com/photos/e2uTOpgW5Ec "caption")
 
@@ -33,18 +33,17 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-tcPUbu8H2c0-flowers.jpg") %> class="outline" -->
-## Growing Together, While Apart <br> 當分開時一起成長
+## Growing Together, While Apart 
 <!-- .element: class="r-fit-text" -->
 
-| *1* | Impact of **Faith** | 信心的影響 |
-|---|---|---|
-| *2a,b* | Toil of **Love** | 愛心的勞苦 |
-| *3* | Acc. with **Hope** | 充滿希望的負責 |
-| *4* | Purity + **Love** | 在聖潔和愛中成長 |
-| *5a* | **Hope** of Salvation | 救贖的盼望 |
-| *5b* | Acts of **Faith** | 信心的行為 |
-
-<!-- .element: class="r-fit-text" -->
+| *1* | Impact of **Faith** | 
+|---|---|
+| *2a* | Toil of **Love** |
+| *2b* | Orphaned but **Loved** |
+| *3* | Strength from **Hope** |
+| *4* | Growing in Purity + **Love** |
+| *5a* | **Hope** of Salvation |
+| *5b* | Acts of **Faith** |
 
 >>>
 + Theme of 1Thes: encour **FHL**
@@ -59,19 +58,18 @@ ______
 ---
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> id="outline" class="outline" -->
 ## Purity and Love [(1Thes4)](# "ref")
-1. The **Will** of God <br> 神的旨意 [(v3-6a)](# "ref")
-1. Our **Identity** in Christ <br> 我們在基督裡的身份 [(v6b-8)](# "ref")
-1. From Selfishness to **Service** <br> 從自私到服侍 [(v9-12)](# "ref")
+1. The **Will** of God [(v3-6a)](# "ref")
+1. Our **Identity** in Christ [(v6b-8)](# "ref")
+1. From Selfishness to **Service** [(v9-12)](# "ref")
 
 ---
 For this is the will of God, your **sanctification**:<br>
-神的旨意就是要你們成為聖潔
 
-1. **Flee** Immorality 逃避淫行
+1. **Flee** Immorality 
 2. Honour God with Our Own **Bodies**
 3. Honour **Others**
 
-[1 Thessalonians 帖撒羅尼迦前書 4:3a (ESV/CUV)](# "ref")
+[1 Thessalonians 4:3a (ESV)](# "ref")
 >>>
 + "sanctif": God **makes** us holy: not
   + stand far off, **demand** we be holy,
@@ -88,9 +86,7 @@ For this is the will of God, your **sanctification**:<br>
 that you **abstain** from <br>
 sexual **immorality**;
 
-遠避淫行
-
-[1 Thessalonians 帖撒羅尼迦前書 4:3b (ESV/CUV)](# "ref")
+[1 Thessalonians 4:3b (ESV)](# "ref")
 [StockSnap](https://stocksnap.io/photo/bullseye-darts-ZPKNKYW4GH "caption")
 >>>
 + What do we **mean** by "sex immoral"?
@@ -119,11 +115,7 @@ is **outside** the body,<br>
 but the sexually immoral person <br>
 sins against his **own body**.
 
-你們要逃避淫行。<br>
-人所犯的，無論甚麼罪，都在身子以外，<br>
-惟有行淫的，是得罪自己的身子。
-
-[1 Corinthians 歌林多前書 6:18 (ESV/CUV)](# "ref")
+[1 Corinthians 6:18 (ESV)](# "ref")
 [Clem Onojeghuo](https://unsplash.com/photos/Apj4nSemkzk "caption")
 >>>
 + Christ paid greatest **price** to redeem
@@ -140,10 +132,7 @@ that each one of you know how to<br>
 **control** his own **body** <br>
 in **holiness** and **honor**,
 
-要你們各人曉得怎樣用聖潔、<br>
-尊貴守著自己的身體。
-
-[1 Thessalonians 帖撒羅尼迦前書 4:4 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:4 (ESV)](# "ref")
 >>>
 + "control": acquire for self, **possess**:
   + both **ownership** and responsib
@@ -162,10 +151,7 @@ in **holiness** and **honor**,
 not in the **passion** of **lust**<br>
 like the Gentiles who do not **know God**;
 
-不放縱私慾的邪情，<br>
-像那不認識神的外邦人
-
-[1 Thessalonians 帖撒羅尼迦前書 4:5 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:5 (ESV)](# "ref")
 [Francesco Ungaro](https://unsplash.com/photos/7A_yfNw528g "caption")
 >>>
 + "passion": pathos, deep **emotion**
@@ -188,10 +174,7 @@ like the Gentiles who do not **know God**;
 that no one **transgress** and **wrong**<br>
 his brother in this matter,
 
-不要一個人在這事上越分，<br>
-欺負他的弟兄
-
-[1 Thessalonians 帖撒羅尼迦前書 4:6a (ESV/CUV)](# "ref")
+[1 Thessalonians 4:6a (ESV)](# "ref")
 [Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 >>>
 + "transgr": **overstep** bounds, defraud
@@ -218,10 +201,7 @@ except perhaps by **agreement**
 for a limited time, 
 that you may devote yourselves to **prayer**;
 
-夫妻不可彼此虧負，除非兩相情願，<br>
-暫時分房，為要專心禱告方可；
-
-[1 Corinthians 歌林多前書 7:5a (ESV/CUV)](# "ref")
+[1 Corinthians 7:5a (ESV)](# "ref")
 [Drew Coffman](https://unsplash.com/photos/llWjwo200fo "caption")
 
 ---
@@ -230,10 +210,7 @@ but then come **together** again, <br>
 so that Satan may not **tempt** you <br>
 because of your lack of **self-control**.
 
-以後仍要同房，<br>
-免得撒但趁著你們情不自禁，引誘你們。
-
-[1 Corinthians 歌林多前書 7:5b (ESV/CUV)](# "ref")
+[1 Corinthians 7:5b (ESV)](# "ref")
 >>>
 + **Coercing** sex is aggression, so also
   + **Withhold** sex: use as **weapon**
@@ -253,8 +230,6 @@ because of your lack of **self-control**.
 <!-- .slide: data-background="white" -->
 # What is God's **will** for us <br> regarding **sexuality**?
 <!-- .element: class="r-fit-text" -->
-# 神在性方面 <br> 對我們的旨意是什麼？
-<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Flee** immorality: any sex rl
@@ -270,9 +245,9 @@ because of your lack of **self-control**.
 ---
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> class="outline" -->
 ## Purity and Love [(1Thes4)](# "ref")
-1. The Will of God <br> 神的旨意 [(v3-6a)](# "ref")
-1. **Our Identity in Christ** <br> **我們在基督裡的身份** [(v6b-8)](# "ref")
-1. From Selfishness to Service <br> 從自私到服侍 [(v9-12)](# "ref")
+1. The Will of God [(v3-6a)](# "ref")
+1. **Our Identity in Christ** [(v6b-8)](# "ref")
+1. From Selfishness to Service [(v9-12)](# "ref")
 
 >>>
 + Not just set of **rules** to
@@ -289,11 +264,7 @@ in all these things,
 as we told you beforehand
 and solemnly warned you.
 
-因為這一類的事，主必報應，<br>
-正如我預先對你們說過，<br>
-又切切囑咐你們的。
-
-[1 Thessalonians 帖撒羅尼迦前書 4:6b (ESV/CUV)](# "ref")
+[1 Thessalonians 4:6b (ESV)](# "ref")
 [&copy; Søren Niedziella, CC-BY 2.0](https://www.flickr.com/photos/albioneurope/8498095661 "caption")
 >>>
 + "avenger": comes forth from **justice**,
@@ -309,10 +280,7 @@ and solemnly warned you.
 For God has not called us for **impurity**,<br>
 but in **holiness**.
 
-神召我們，本不是要我們沾染污穢，<br>
-乃是要我們成為聖潔
-
-[1 Thessalonians 帖撒羅尼迦前書 4:7 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:7 (ESV)](# "ref")
 >>>
 + "impurity": **unclean**, as opp. to
   + "holiness": set **apart**
@@ -326,10 +294,7 @@ Therefore whoever **disregards** this,<br>
 disregards not **man** but **God**,<br>
 who gives his **Holy Spirit** to you.
 
-所以那棄絕的，不是棄絕人，<br>
-乃是棄絕那賜聖靈給你們的神。
-
-[1 Thessalonians 帖撒羅尼迦前書 4:8 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:8 (ESV)](# "ref")
 [Łukasz Łada](https://unsplash.com/photos/q7z-AUlHPaw "caption")
 >>>
 + If these were **man-made** rules, 
@@ -351,10 +316,7 @@ ______
 For God has not called us for **impurity**,<br>
 but in **holiness**.
 
-神召我們，本不是要我們沾染污穢，<br>
-乃是要我們成為聖潔
-
-[1 Thessalonians 帖撒羅尼迦前書 4:7 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:7 (ESV)](# "ref")
 [Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 >>>
 + Sexual desire is **powerful** force:
@@ -373,7 +335,7 @@ but in **holiness**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What role does **sexuality** play <br> in our **identity** in Christ? <br> 我們性的特性 <br> 在我們基督的身分中 <br> 扮演什麼角色？
+# What role does <br> **sexuality** play in <br> our **identity** in Christ?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -390,9 +352,9 @@ but in **holiness**.
 ---
 <!-- .slide: <%= bg("unsplash-e2uTOpgW5Ec-saxon_sunrise_mist.jpg") %> class="outline" -->
 ## Purity and Love [(1Thes4)](# "ref")
-1. The Will of God <br> 神的旨意 [(v3-6a)](# "ref")
-1. Our Identity in Christ <br> 我們在基督裡的身份 [(v6b-8)](# "ref")
-1. **From Selfishness to Service** <br> **從自私到服侍** [(v9-12)](# "ref")
+1. The Will of God [(v3-6a)](# "ref")
+1. Our Identity in Christ [(v6b-8)](# "ref")
+1. **From Selfishness to Service** [(v9-12)](# "ref")
 
 >>>
 + Instead of **selfish** fantasy, 
@@ -409,12 +371,7 @@ you yourselves have been<br>
 for that indeed is what you are doing<br>
 to all the brothers throughout Macedonia.
 
-你們自己蒙了神的教訓，<br>
-叫你們彼此相愛。<br>
-你們向馬其頓全地的眾弟兄<br>
-固然是這樣行
-
-[1 Thessalonians 帖撒羅尼迦前書 4:9b-10a (ESV/CUV)](# "ref")
+[1 Thessalonians 4:9b-10a (ESV)](# "ref")
 [Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 >>>
 + **Care** for fellow believers in Chr,
@@ -432,23 +389,13 @@ to all the brothers throughout Macedonia.
 But we urge you, brothers, <br>
 to do this **more and more**, 
 
-但我勸弟兄們要更加勉勵
-
-[1 Thessalonians 帖撒羅尼迦前書 4:10b (ESV/CUV)](# "ref")
-[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
-
----
-<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 and to aspire to live **quietly**,<br>
 and to mind your **own affairs**,<br>
 and to work with your **hands**, <br>
 as we instructed you,
 
-又要立志作安靜人，<br>
-辦自己的事，親手做工，<br>
-正如我們從前所吩咐你們的，
-
-[1 Thessalonians 帖撒羅尼迦前書 4:11 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:11 (ESV)](# "ref")
+[Ian Espinosa](https://unsplash.com/photos/oXo6IvDnkqc "caption")
 >>>
 + "aspire": deem **honourable**,
   + of great personal **value**,
@@ -471,10 +418,7 @@ so that you may <br>
 **walk properly** before outsiders<br>
 and be **dependent** on no one.
 
-叫你們可以向外人行事端正，<br>
-自己也就沒有甚麼缺乏了。
-
-[1 Thessalonians 帖撒羅尼迦前書 4:12 (ESV/CUV)](# "ref")
+[1 Thessalonians 4:12 (ESV)](# "ref")
 [Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 >>>
 + "walk": daily conduct + habits
@@ -493,10 +437,7 @@ to be **generous** in every way, <br>
 which through us will <br>
 produce **thanksgiving** to God.
 
-叫你們凡事富足，可以多多施捨，<br>
-就藉著我們使感謝歸於神
-
-[2 Corinthians 歌林多後書 9:11 (ESV/CUV)](# "ref")
+[2 Corinthians 9:11 (ESV)](# "ref")
 [Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
 >>>
 + live **quietly**, tend to **own** work,
@@ -507,8 +448,6 @@ produce **thanksgiving** to God.
 ---
 <!-- .slide: data-background="white" -->
 # How can I **abound** in love <br> for fellow **believers**?
-<!-- .element: class="r-fit-text" -->
-# 我如何對信徒同工充滿愛心？
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -534,5 +473,4 @@ produce **thanksgiving** to God.
   + to be clean dwelling for **HS**
 + Move us from **selfish** to **service**
   + work quietly to provide **generously**
-_____________________________________________
 
